@@ -1,6 +1,8 @@
 /** Client program for the campus bike rental system. */
 public class RentalApp {
     public static void main(String[] args) {
+        System.out.println("Welcome to the Campus Bike Rental System!");
+        
         // TODO 1: Create two RentalStation objects.
 
         // TODO 2: Create at least three Bike objects.
